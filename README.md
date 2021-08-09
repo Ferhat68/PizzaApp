@@ -3,6 +3,8 @@
 
 ### Contributors
 
+yusuf o
+
 suleymanka
 
 Omer N
@@ -15,4 +17,9 @@ mehtap y
 
 murat çetin
 
-Ferhat
+<<<<<<< HEAD
+
+=======
+Mustafa B
+
+>>>>>>> origin
